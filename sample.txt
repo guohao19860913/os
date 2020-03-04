@@ -1,2 +1,3 @@
 monkey knows git
 there is a change
+second conflict
