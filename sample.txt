@@ -2,5 +2,5 @@ monkey knows git
 there is a change
 a conflict
 second conflict
-fist of two commit
 second of tow commit
+one commit in two 
